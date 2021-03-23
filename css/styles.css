@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #0069a7;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color: #0069a7;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #329e8f
+}
+
+hr {
+  width: 3%;
+  border-top: 5px dotted #889A9A;
+  margin: 70px auto;
+}
+
+.bottom {
+  background-color: #66BFBF;
+  padding: 20px 0;
+  color: white;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 275px;
+  width: 15%;
+}
+
+.btn {
+  cursor: pointer;
+  border: solid 1px;
+  padding: 10px 15px;
+  border-radius: 15px;
+  text-decoration: none;
+  color: white;
+  background-color: #329e8f;
+}
+
+.btn:hover{
+  color: #329e8f;
+  background-color: white;
+  font-weight: bold;
+  border: solid 2px #329e8f;
+}
+.contact-me{
+  padding-bottom: 50px;
+  line-height: 3;
+}
+
+.get-in-touch{
+  margin: 0;
+}
+
+.first-skill {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.footer-link {
+  margin: 15px;
+  text-decoration: none;
+  color: #337b7b;
+}
+
+.question{
+  margin-top: 0;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+
+.profile {
+  width: 50%;
+  margin: 0 auto;
+  line-height: 2;
+}
+
+.profile-img {
+  border-radius: 50%;
+  width: 30%;
+  margin: 50px auto 0;
+}
+
+.personal-links {
+  padding: 20px;
+}
+
+.second-skill {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.third-skill{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 20px;
+  width: 15%;
+}
+
+.top {
+  background-color: #e4fbff;
+  padding-top: 100px;
+  position: relative;
+  line-height: 1;
+}
